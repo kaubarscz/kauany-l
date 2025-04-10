@@ -4,7 +4,7 @@ body {
     background-image: url('sua-imagem-de-fundo.jpg'); /* Caminho da imagem de fundo */
     background-size: cover; /* A imagem vai cobrir toda a tela */
     background-position: center; /* A imagem fica centralizada */
-    margin: 0;
+    margin: 2;
     padding: 0;
     color: #333; /*pink*/
 }
