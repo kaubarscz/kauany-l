@@ -11,7 +11,7 @@ body {
 
 /* Definindo o estilo do cabeçalho */
 header {
-    background-color: rgba(0, 0, 0, 0.5); /* Fundo com leve transparência */
+    background-color: rgba(247, 124, 206, 0.5); /* Fundo com leve transparência */
     color: #fff; /* Cor do texto do cabeçalho */
     text-align: center;
     padding: 50px 0;
@@ -27,30 +27,30 @@ main {
     max-width: 1200px;
     margin: 50px auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com transparência */
+    background-color: rgba(41, 5, 29, 0.8); /* Fundo branco com transparência */
     border-radius: 8px; /* Bordas arredondadas */
 }
 
 article {
     margin-bottom: 30px;
     padding: 20px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #640909;
 }
 
 article h2 {
-    color: #007BFF; /* Cor do título do post */
+    color: #c20041; /* Cor do título do post */
     font-size: 2rem;
 }
 
 article p {
     line-height: 1.6; /* Aumento no espaçamento entre as linhas */
-    color: #555; /* Cor do texto do post */
+    color: #b874a1; /* Cor do texto do post */
 }
 
 /* Definindo o estilo do rodapé */
 footer {
     background-color: #222;
-    color: #fff;
+    color: #ff58e9;
     text-align: center;
     padding: 20px 0;
     position: fixed;
