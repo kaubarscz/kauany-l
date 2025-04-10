@@ -1,67 +1,6 @@
-/* Definindo um fundo para a página */
-body {
-    font-family: Arial, sans-serif;  /* Fonte padrão do blog */
-    background-image: url('./shutterstock-1673451223_171120224534.jpg'); /* Caminho da imagem de fundo */
-    background-size: cover; /* A imagem vai cobrir toda a tela */
-    background-position: center; /* A imagem fica centralizada */
-    margin: 0;
-    padding: 0;
-    color: #333; /*pink*/
-}
 
-/* Definindo o estilo do cabeçalho */
-header {
-    background-color: rgba(247, 124, 206, 0.5); /* Fundo com leve transparência */
-    color: #fff; /* Cor do texto do cabeçalho */
-    text-align: center;
-    padding: 50px 0;
-}
-
-header h1 {
-    font-size: 3rem; /* Tamanho do título */
-    margin: 0;
-}
-
-/* Estilo para os posts do blog */
-main {
-    max-width: 1200px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: rgba(41, 5, 29, 0.8); /* Fundo branco com transparência */
-    border-radius: 8px; /* Bordas arredondadas */
-}
-
-article {
-    margin-bottom: 30px;
-    padding: 20px;
-    border-bottom: 1px solid #640909;
-}
 
 #imagem-kauany{
     height: 100%;
 }
 
-article h2 {
-    color: #c20041; /* Cor do título do post */
-    font-size: 2rem;
-}
-
-article p {
-    line-height: 1.6; /* Aumento no espaçamento entre as linhas */
-    color: #b874a1; /* Cor do texto do post */
-}
-
-/* Definindo o estilo do rodapé */
-footer {
-    background-color: #222;
-    color: #ff58e9;
-    text-align: center;
-    padding: 20px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-footer p {
-    margin: 0;
-}
