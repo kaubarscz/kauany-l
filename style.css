@@ -37,6 +37,10 @@ article {
     border-bottom: 1px solid #640909;
 }
 
+#imagem-kauany{
+    height: 100%;
+}
+
 article h2 {
     color: #c20041; /* Cor do título do post */
     font-size: 2rem;
