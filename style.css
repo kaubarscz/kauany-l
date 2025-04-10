@@ -1,10 +1,10 @@
 /* Definindo um fundo para a página */
 body {
     font-family: Arial, sans-serif;  /* Fonte padrão do blog */
-    background-image: url('sua-imagem-de-fundo.jpg'); /* Caminho da imagem de fundo */
+    background-image: url('./shutterstock-1673451223_171120224534.jpg'); /* Caminho da imagem de fundo */
     background-size: cover; /* A imagem vai cobrir toda a tela */
     background-position: center; /* A imagem fica centralizada */
-    margin: 2;
+    margin: 0;
     padding: 0;
     color: #333; /*pink*/
 }
